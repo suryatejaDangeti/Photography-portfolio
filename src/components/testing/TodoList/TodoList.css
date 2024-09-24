@@ -1,0 +1,80 @@
+.todo-conatiner {
+    text-align: center;
+}
+.input-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .todo-input {
+    width: 200px;
+    height: 30px;
+    border: 1px solid grey;
+    font-family: roboto;
+    font-size: 15px;
+    padding-left: 10px;
+    margin: 10px 0px;
+  }
+  .submit-btn {
+    width: 100px;
+    height: 40px;
+    background-color: chocolate;
+    font-family: roboto;
+    font-size: 15px;
+    padding-left: 10px;
+    margin: 10px 0px;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+  }
+  
+  .main-todo-list-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .todo-list-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 400px;
+    height: 100px;
+    border: 1px solid grey;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: grey 2px 2px 2px 2px;
+  }
+  .todo-list-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .todo-text {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+  }
+  .btn-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .edit-btn {
+    width: 60px;
+    height: 30px;
+    background-color: orange;
+    color: #fff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+  }
+  .delete-btn {
+    background-color: red;
+  }
