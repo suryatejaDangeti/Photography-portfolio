@@ -1,3 +1,8 @@
+# photography portfolio (Not done yet)
+![image](https://github.com/user-attachments/assets/9432127d-3c11-4493-91c1-9a69b745037e)
+![image](https://github.com/user-attachments/assets/3a53a4dd-0048-4996-8a74-768b3fb19833)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
